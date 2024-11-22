@@ -1,0 +1,27 @@
+.footer-main-container{
+border: .2px solid white;
+width: 100%;
+}
+.about  h2{
+    color: var(--primary-color);
+}
+.help h2{
+    color: var(--primary-color);
+}
+.divider{
+    width: .15rem;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: white;
+
+}
+.footerstrip{
+    
+    margin-top: 0px;
+    border: .2px solid white;
+    width: 100%;
+}
+.become-seller i{
+    color: var(--primary-color);
+    font-size: 25px;
+}

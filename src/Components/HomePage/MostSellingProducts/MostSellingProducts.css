@@ -1,0 +1,10 @@
+.child-container-most-selling-product-Card > .card{
+    border: 3px solid var(--primary-color);
+    /* width: 200px;
+    height: 350px; */
+}
+
+.product-image{
+    height: 8rem;
+    width: 10rem;
+}

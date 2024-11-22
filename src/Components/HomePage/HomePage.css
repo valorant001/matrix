@@ -1,0 +1,11 @@
+.explore-btn{
+    border-radius: 3px;
+    background-color: #FFA500;
+    width: 170px;
+    height: 49px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+
+}

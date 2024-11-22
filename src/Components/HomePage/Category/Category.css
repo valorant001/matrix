@@ -1,0 +1,12 @@
+.card{
+ border: 2px solid var(--primary-color);
+ border-radius: 20px;
+
+}
+.main-container-Card{
+    width: 98%;
+}
+.child-container{
+    width: 93vw;
+
+}
